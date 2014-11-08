@@ -1,0 +1,26 @@
+Instruction:
+
+Below are the commands (lower cases) to interact with the application
+
+- To add an order to shopping cart:
+==> [number] [goods name] at [price]
+For example: 8 bottle of perfume at 18.99
+
+- To print the invoice:
+==> print
+
+- To empty the shopping cart:
+==> empty
+
+- To list the tax free goods
+==> taxfree
+
+- To register a goods as taxfree
+==> taxfree [goods name]
+For example: taxfree chocolates
+
+- To empty the taxfree goods list:
+==> empty taxfree
+
+- To exit the application:
+==> exit
